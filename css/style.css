@@ -1,0 +1,97 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.special-font{
+    font-family: 'Bebas Neue', cursive;
+}
+.penguine-button{
+    padding: 15px 35px;
+    background-color: #A0B840;
+    color: white;
+    border: none;
+    border-radius: .5em;
+    font-weight: 600;
+}
+.logo-image{
+    width: 300px;
+}
+#navbarNav li{
+    padding-left: 40px;
+}
+.text-highlight{
+    color: #FABE4C;
+}
+.text-blue-color{
+    color: #363958;
+}
+h1{
+    font-size: 80px;
+}
+h2{
+    font-size: 48px;
+}
+.halka-black{
+    color: #3E3E3E;
+}
+.jacket-footer{
+    border: none;
+}
+.jacket-card{
+    border: none;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+.jacket-card .card-footer{
+    background-color: white;
+    border-radius: 30px;
+}
+.image-size{
+    background-color: #F1F1F1;  
+    padding: 30px;
+    border-radius: 1em;
+    margin: 1em;
+    height: 400px;
+    margin-bottom: 0;
+
+}
+.image-size img{
+    width: 280px;
+}
+.card-body h3{
+    font-weight: 600;
+}
+.card-body p{
+    color: #3E3E3E;
+}
+.card-footer h3{
+    font-weight: bold;
+}
+
+.my-box{
+    
+}
+.my-box img{
+    padding: 20px;
+}
+.my-box h4{
+    font-weight: bold;
+}
+.my-box .col-md-9{
+    padding-right: 70px;
+}
+
+@media (max-width: 576px) {
+    .my-box .inner-box{
+        border: 1px solid green;
+        display: flex;
+        justify-content: center;
+        margin: 0;
+        text-align: center;
+        padding: 0;
+    }
+    .my-box{
+        border: 1px solid blue;
+    }
+    
+ }
