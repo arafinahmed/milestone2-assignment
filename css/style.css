@@ -124,5 +124,7 @@ input{
     .majhe-nibo{
         text-align: center;
     }
-    
+    .logo-image{
+        width: 250px;
+    }
  }
